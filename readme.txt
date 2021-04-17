@@ -1,1 +1,2 @@
-Continue work in new branch
+
+Preparing for merge Patch
